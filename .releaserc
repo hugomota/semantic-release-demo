@@ -21,10 +21,8 @@
       "@semantic-release/github",
       {
         "assets": [
-          {
-            "path": "dist/index.js",
-            "label": "The main file"
-          }
+          { "path": "dist/index.js" },
+          { "path": "docs/CHANGELOG.md" }
         ]
       }
     ]
