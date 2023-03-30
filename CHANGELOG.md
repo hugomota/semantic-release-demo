@@ -1,3 +1,10 @@
+# [2.1.0-next.1](https://github.com/hugomota/semantic-release-demo/compare/v2.0.4...v2.1.0-next.1) (2023-03-30)
+
+
+### Features
+
+* **log:** remove 2nd log ([a239bba](https://github.com/hugomota/semantic-release-demo/commit/a239bbab821fd298eb8e02b7932aa439ea8e067e))
+
 ## [2.0.4](https://github.com/hugomota/semantic-release-demo/compare/v2.0.3...v2.0.4) (2023-03-30)
 
 
