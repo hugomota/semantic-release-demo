@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A semantic release demo",
   "main": "index.js",
-  "release": { "branches": [ "main" ] },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
