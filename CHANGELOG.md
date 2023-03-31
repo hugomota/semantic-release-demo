@@ -1,3 +1,10 @@
+# [2.2.0-next.1](https://github.com/hugomota/semantic-release-demo/compare/v2.1.0...v2.2.0-next.1) (2023-03-31)
+
+
+### Features
+
+* **index:** add zzz ([6f4c221](https://github.com/hugomota/semantic-release-demo/commit/6f4c221da216d1c1545c4a5bef6e6e54d32ff67a)), closes [#5](https://github.com/hugomota/semantic-release-demo/issues/5)
+
 # [2.1.0](https://github.com/hugomota/semantic-release-demo/compare/v2.0.4...v2.1.0) (2023-03-30)
 
 
