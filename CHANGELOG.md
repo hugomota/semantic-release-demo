@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/hugomota/semantic-release-demo/compare/v2.2.0...v2.2.1) (2023-03-31)
+
+
+### Bug Fixes
+
+* **bug:** buig cenas fix ([1ce63ba](https://github.com/hugomota/semantic-release-demo/commit/1ce63baa842ca45ad4536420c8e77a28f358ad97)), closes [#4](https://github.com/hugomota/semantic-release-demo/issues/4)
+
 # [2.2.0](https://github.com/hugomota/semantic-release-demo/compare/v2.1.0...v2.2.0) (2023-03-31)
 
 
