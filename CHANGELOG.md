@@ -1,3 +1,15 @@
+# [4.0.0-next.1](https://github.com/hugomota/semantic-release-demo/compare/v3.0.0...v4.0.0-next.1) (2023-03-31)
+
+
+### Features
+
+* **index:** remove moço ([963a327](https://github.com/hugomota/semantic-release-demo/commit/963a327252bd99bd0ffe6eb28645a28035228832))
+
+
+### BREAKING CHANGES
+
+* **index:** breaking description
+
 # [3.0.0](https://github.com/hugomota/semantic-release-demo/compare/v2.2.1...v3.0.0) (2023-03-31)
 
 
