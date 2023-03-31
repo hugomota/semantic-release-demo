@@ -1,1 +1,1 @@
-console.log("Hello semantic releasezz")
+console.log("Hello semantic release")
