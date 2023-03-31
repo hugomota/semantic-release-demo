@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/hugomota/semantic-release-demo/compare/v2.2.1...v3.0.0) (2023-03-31)
+
+
+### Features
+
+* **index:** add hello moço ([46d0309](https://github.com/hugomota/semantic-release-demo/commit/46d0309f6be9180aa0ef6529aeebcc35ef630e69))
+
+
+### BREAKING CHANGES
+
+* **index:** new moço
+
 ## [2.2.1](https://github.com/hugomota/semantic-release-demo/compare/v2.2.0...v2.2.1) (2023-03-31)
 
 
